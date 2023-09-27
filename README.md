@@ -1,16 +1,14 @@
-# New BCR Robot
-
-https://github.com/blackcoffeerobotics/bcr_bot/assets/13151010/0fc570a3-c70c-415b-8222-b9573d5911c8
+# AMR ROS2 Example Gazebo-Sim
 
 ## About
 
-This repository contains a Gazebo simulation for a differential drive robot, equipped with an IMU, a depth camera and a 2D LiDAR. The primary contriution of this project is to support multiple ROS and Gazebo distros. Currently, the project supports the following versions - 
+This repository contains a Gazebo simulation for a differential drive robot, equipped with an IMU, a depth camera, and a 2D LiDAR. The primary contribution of this project is to support multiple ROS and Gazebo distros. Currently, the project supports the following versions - 
 
 1. [ROS Noetic + Gazebo Classic 11 (branch ros1)](#noetic--classic-ubuntu-2004)
 2. [ROS2 Humble + Gazebo Classic 11 (branch ros2)](#humble--classic-ubuntu-2204)
 3. [ROS2 Humble + Gazebo Fortress (branch ros2)](#humble--fortress-ubuntu-2204)
 
-Each of the following sections describes depedencies, build and run instructions for each of the above combinations
+Each of the following sections describes dependencies, build and run instructions for each of the above combinations
 
 ## Noetic + Classic (Ubuntu 20.04)
 
